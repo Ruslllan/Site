@@ -1,0 +1,407 @@
+@media (max-width:1999px){
+    .all-adres{
+        justify-content: end;
+    }
+    /*------------------------------------------------------section2-------------------------------------------------------------*/
+    .block-span,.block-span2{
+        min-width: 110px;
+    }
+}
+@media (max-width: 992px){
+    .logo-1{
+        justify-content: center;
+    }
+    .all-adres{
+        justify-content: space-between;
+    }
+    .header-menu{
+        display: none;
+    }
+    .header-logo{
+        justify-content: center;
+    }
+    .header-adres{
+        justify-content: start;
+        max-width: 500px;
+    }
+    .all-adres{
+        display: flex;
+        justify-content: space-between;
+    }
+    .block1,.block2{
+        max-width: 100%;
+    }
+    /*--------------------------------------------------section1---------------------------*/
+    .sec1-h1{
+        font-size: 50px;
+    }
+    /*------------------------------------------------------------section2-----------------------------------------------------*/
+    .block1,.block2{
+        margin-right: 0;
+    }
+    .block-span,.block-span2{
+        min-height: 110px;
+    }
+    /*------------------------------------------------------------section6---------------------------------------------------------------*/
+    .block-slide{
+        padding:100px 20px 100px ;
+    }
+    
+
+     /*-----------------------------------------------------------footer-------------------------------------------------------------------------*/
+     .footer-menu,.row2-footer{
+        display: none;
+     }
+     .row-2-f{
+        display: none;
+     }
+}
+@media (max-width:766px){
+    /*-------------------------------header----------------*/
+    .header-logo{
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+    .header-contact,.header-adres{
+        margin-bottom: 10px;
+        padding-right: 0;
+        margin-right: 0;
+    }
+    .all-adres{
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .adres-p{
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .bi{
+        display: none;
+    }
+    .header-adres{
+        max-width: 100%;
+        justify-content: center;
+    }
+    .header-contact{
+        justify-content: center;
+        text-align: center;
+    }
+    .div-contacts{
+        flex-direction: column;
+    }
+    .header-btn{
+        justify-content: center;;
+    }
+    .sec1-row{
+        text-align: center;
+    }
+    /*-----------------------------------------------------------section1---------------------------------------------------------------*/
+    .items{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .items-span{
+        width: 70px;
+        height: 70px;
+    }
+    .block-list-img{
+        width: 38px;
+        height: 38px;
+    }
+    .items-text1{
+        font-size: 18px;
+    }
+    .items-text2-span{
+        font-size: 13px;
+    }
+    .sec1-h1{
+        font-size: 30px;
+    }
+    .sec1-h1-2{
+        font-size: 18px;
+    }
+    .sec1-text{
+        font-size: 18px;
+    }
+    /*-----------------------------------------------------------section2-----------------------------------------------------------------------*/
+    .block1,.block2{
+        margin-right: 0;
+        align-items: center;
+        max-height: 161px;
+    }
+    .block1{
+
+    }
+    .block2{
+    
+    }
+    .block-span,.block-span2{
+        width: 80px;
+        height: 83px;
+    }
+    .block-span-img{
+        width: 38px;
+        height: 38px;
+        object-fit: contain;
+    }
+    .span-text1,.span-text-block1{
+        font-size: 18px;
+    }
+    /*------------------------------------------------------------section3-----------------------------------------------------------------*/
+    .span-img-sec3{
+        display: none;
+    }
+    .about{
+        width: 100%;
+        padding-left: 5%;
+        padding-bottom: 5%;
+    }
+    /*------------------------------------------section4---------------------------------*/
+    .sec4{
+        padding: 0;
+    }
+    .sec4-block{
+        padding: 70px 22px 50px 22px;
+    }
+    .sec4-col{
+        padding: 0;
+    }
+    .block-img-sec4{
+        flex-direction: column;
+        align-items: center;
+    }
+    .block1-sec4{
+        display: contents;
+    }
+    .div-line-text{
+        box-shadow: none;
+        padding-left: 0;
+    }
+    .sec4-text{
+        text-align: center;
+    }
+    .block-text-sec4{
+        font-size: 30px;
+    }
+    /*----------------------------------------------------------section5----------------------------------------------------*/
+    .span-img-sec5{
+        display: none;
+    }
+    .about-sec5{
+        width: 100%;
+        text-align: center;
+        padding: 100px 9px;
+        margin-right: 0;
+    }
+    .div-show{
+        justify-content: center;
+    }
+    .div-text-sec5{
+        justify-content: center;
+        font-size: 16px;
+    }
+    .p-text{
+        font-size: 16px;
+    }
+    /*--------------------------------------section7-----------------------------*/
+    .for-form{
+        flex-direction: column;
+    }
+    .div-sec7 input{
+        width: 100%;
+    }
+    .form-field{
+        padding: 0;
+    }
+
+    /*-----------------------------------------------------------footer-------------------------------------------------------------------------*/
+    .td{
+        flex-direction: column;
+        align-items: center;
+    }
+    .col-footer{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    /*----------------------------------------------------------------reg.html-------------------------------*/
+    .blok-reg{
+        flex-direction: column;
+    }
+    .div-2block-reg{
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .container-reg1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .div-2block-reg{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .btn-reg{
+        width: 100%;
+        margin: 0;
+    }
+    .sec1-reg{
+        padding: 40px 10px;
+    }
+    .h1-pr,.h3-pr{
+        font-size: 28px;
+    }
+    /*----------------------------*****------------------------------------*/
+    .h1-us{
+        font-size: 28px;
+    }
+    .div-bt-reg{
+        flex-direction: column;
+    }
+    .div-bt-reg button{
+        margin: 10px 0;
+    }
+    .div-text-block-reg{
+        display: block;
+        text-align: center;
+    }
+}
+@media (max-width: 575px){
+    /*--------------------------------------------------------section1--------------------------*/
+    .sec1-h1{
+        font-size: 26px;
+    }
+    .sec1-h1-2{
+        font-size: 16px;
+    }
+    .sec1-text{
+        font-size: 16px;
+    }
+    /*-----------------------------------------------------------section2------------------------------------------*/
+    .sec2{
+        padding: 0;
+    }
+    .col-block-sec2{
+        padding: 0;
+    }
+    .block-list{
+        flex-direction: column;
+    }
+    .items-text1,.items-text1{
+        width: 100%;
+    }
+    .items-text2-span{
+        width: 100%;
+    }
+    .block-blue{
+        padding: 0;
+    }
+    .block1,.block2{
+        flex-direction: column;
+        max-height: 100%;
+        margin-bottom: 10px;
+    }
+    .block-text2{
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    /*-------------------------------------section3----------------------------*/
+    .title-items{
+        font-size: 40px;
+    }
+    /*--------------------------------------------------section5-------------------------------*/
+    .about-sec5{
+        width: 100%;
+        text-align: center;
+        padding: 100px 9px;
+        margin-right: 0;
+    }
+    .h1-sec5{
+        font-size: 26px;
+    }
+    /*----------------------------------------------------section6-----------------------------------------------*/
+    .name-img-sec6{
+        flex-direction: column;
+    }
+    .name-slader-span{
+        text-align: center;
+    }
+    .name-img{
+        flex-direction: column;
+        align-items: center;
+    }
+    .slider{
+        margin-top: 90px;
+    }
+    .img-sec6{
+        margin-top: -140px;
+    }
+    .comment-text{
+        margin-top: 20px;
+    }
+    .otziv-text{
+        
+        display: flex;
+        justify-content: center;
+        font-size: 26px;
+    }
+    /*-----------------------------------------------------section4-----------------------------------*/
+    .block-text-sec4{
+        font-size: 26px;
+    }
+    .form-container{
+        padding: 70px 20px 70px;
+    }
+    /*------------------------------------footer----------------------*/
+    .td{
+        margin-bottom: 0;
+    }
+    .pad,.pad2{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    /*---------------------------------------------------------------------Company html---------------------------*/
+    .section1{
+        padding: 40px 20px 40px;
+    }
+    .content{
+        text-align: center;
+    }
+    /*-------------------------------------------------------------------------otziv.html-----------------------------*/
+    .btn-li{
+        width: 100%;
+    }
+    .h1-sec7{
+        font-size: 26px;
+    }
+    .p-sec7{
+        font-size: 20px;
+    }
+    /*----------------------------------------------------------------registration.html-----------------------------*/
+    .block-reg{
+        flex-direction: column;
+        align-items: center;
+    }
+    .div-2block{
+        margin: 20px 0 20px;
+    }
+    .div-text-b2{
+        margin-top: 20px;
+    }
+    .container-sec7-reg{
+        padding-top: 0;
+    }
+    /*----------------------------------------------------reg.html----------------------------------*/
+    .h1-pr,.h3-pr{
+        font-size: 24px;
+    }
+    /*-------------------------------------------------------------------contact.html---------------------------------*/
+    
+    
+}

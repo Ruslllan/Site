@@ -1,0 +1,16 @@
+.sec1-2{
+    display: block;
+    width: 100%;
+    position: relative;
+    padding-top: 0px;
+    padding-bottom: 100px;
+    margin-top: -50px;
+    padding-left: 1%;
+    padding-right: 1%;
+    min-height: auto;
+    background-image: linear-gradient(to right, rgba(var(--color-irpahao31), 0.4) 0%, rgba(var(--color-i633rqjh7), 0) 100%), linear-gradient(rgba(var(--color-insr2oqfx), 0.3) 0%, rgba(var(--color-insr2oqfx), 0.3) 100%), var(--image-ivt1dzjz9);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: left 0px top 0px, left 0px top 0px, center center;
+    background-size: auto, auto, cover;
+    background-attachment: scroll, scroll, scroll
+}
